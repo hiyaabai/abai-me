@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 阿柏
+name_pronunciation: ā bǎi
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,8 +15,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: WozoNet
+#  url: "https://www.wozonet.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -28,25 +28,25 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:hiyaabai@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/hiyaabai
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: https://www.instagram.com/hiyaabai/
   - icon: weibo
     icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
+    link: ttps://weibo.com/hiyaabai
   - icon: tiktok
     icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
+    link: https://www.tiktok.com/@hiyaabai
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://orcid.org/0000-0002-4812-4059
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hiyaabai
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
