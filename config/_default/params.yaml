@@ -18,11 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo minimal theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Coder, Photographer, Shooter.'
+    twitter: 'hiyaabai'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '2fe066bae9f5d5e0bf3a524f2fc0e6b9'
   verification:
     google: ''
     baidu: ''
@@ -41,9 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Abai. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
